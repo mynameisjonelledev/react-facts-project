@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 
 export default defineConfig({
-  base: '/react-facts/',
   plugins: [react()],
-})
+  base: "/react-facts-project/",
+});
