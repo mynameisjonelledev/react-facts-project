@@ -1,8 +1,17 @@
-# React + Vite
+# React Facts Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **React Facts** project. It's a static webpage created as the first step in learning **React**. In this project, I showcase basic React concepts and practice using components and JSX. 
 
-Currently, two official plugins are available:
+### Features
+- Displays static facts about React
+- Uses basic React structure and components
+- Great first project to understand React fundamentals
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tools & Technologies Used:
+- React
+- Vite (for faster development)
+- HTML/CSS
+- GitHub Pages (for deployment)
+
+### About the Project
+This is the first of many projects I'm building as part of my journey into learning **React**. It serves as a static webpage, focusing on the core React concepts like components and rendering.
